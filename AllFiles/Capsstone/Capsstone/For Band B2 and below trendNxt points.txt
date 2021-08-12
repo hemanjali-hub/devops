@@ -1,0 +1,13 @@
+“Dear All,
+
+To reflect your TrendNxt Credit points in the system, you need to map your DevOps skill accordingly under My Learning Section to obtain your credit points. This needs to be done before we update your certification detail in the system. If you have not done already please map the skill
+
+FullStack DevOps-L3
+
+Below are the steps to follow while mapping the skill in My Learning page.
+
+•	Login to My Learning page
+•	Map the require skill by following the important notes available on the My learning page
+•	After Mapping the skills employee has to click on VALIDATE and submit the mapping only if  Validation is Successful.
+If there is any issue in mapping please raise an helpline call under trend nxt category.”
+
