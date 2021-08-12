@@ -1,0 +1,28 @@
+1. Application Development
+2. WebHook Implementation
+3. Either a minimum of 2 jobs (Jenkins GUI based - to show modularity) or a Pipeline Script Job
+3a. Maven Goal
+4. Sonar - With Jacoco
+5. JFrog - Artifactory Upload (Code Quality / Code Coverage Checked ) Binary. Previous Binary files to be available
+6. Ansible - To pull latest binary from Jfrog
+7. Dockcer, Docker Compose
+8. Monitoring tool (any one of :Cadvisor, Nagios, Splunk, Slack, Grafana etc)
+
+Points:
+* Error handling
+* Status update in gitlab
+* Store only the last 10 builds in Jenkins
+* Workspace should only contain the files related to latest build
+* Multi branch 
+* 1st Internal review will minimum take 1 hour
+* at least one day before final presentation, the PPT and gitlab link where the final deliverables are stored to be shared with faculties
+* Final Live demo will be reviewed by a Wipro - DevOps Expert
+* Above approach is only indicative; Any equivalent tool set / environment can be used to build DevOps Pipeline
+* Timeline given will be strictly adhered to
+
+check point:
+* Source Code
+* Unit Test Code
+* Functional Test Code
+* Server Config Code
+* App Config Code

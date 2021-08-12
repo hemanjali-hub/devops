@@ -1,0 +1,9 @@
+Sway presentation of your team’s work:
+                - Your team & Your journey in this program (1 mins)
+               - What is your capstone application and its features (1 mins)
+                - Tools used  & about additional tools explored (1 mins)
+-	Tools integration with respect to your capstone project (2 mins)
+                -  Future Scope for improvement(2 mins)
+                - Demonstration of your application (15 mins)
+                - Q&A - (8 mins)
+                - Total time for presentation + Demo = 30 mins
